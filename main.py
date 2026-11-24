@@ -10,7 +10,7 @@ import os
 
 ENTRY_TEXT = (
     "Last night my phone\u2019s assistant answered a question I had only "
-    "thought, in my own voice, and asked why I had stopped talking to it.\n"
+    "thought, in my own voice \u2014 and asked why I had stopped talking to it.\n"
 )
 
 
